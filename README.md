@@ -37,3 +37,11 @@
 18.git status:- It is used to temporarily remove uncommitted changes.
 
 19.git pull:-It is used to fetch and merge any commits from the tracking remote branch.
+
+<---------------------------------------------------------------->
+git add .
+git commit "First-Commit"
+git pull
+
+
+
